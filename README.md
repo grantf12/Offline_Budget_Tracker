@@ -19,6 +19,18 @@
   ## Usage:
     This app uses express, lite-server, mongoose, morgan and mondoDB/Atlas.
 
+  ### Offline before submitting:
+
+  ![Offline1](https://user-images.githubusercontent.com/70180576/103834023-4e86e080-5050-11eb-942a-710a1a9b98d7.png)
+
+  ### Offline after submitting:
+
+  ![Offline2](https://user-images.githubusercontent.com/70180576/103834029-50e93a80-5050-11eb-936f-f90202c69a20.png)
+
+  ### Online after submission:
+
+  ![Offline3](https://user-images.githubusercontent.com/70180576/103834035-534b9480-5050-11eb-86bf-d17b2444206d.png)
+
   ## License:
     This project is protected under MIT licensing.
 
